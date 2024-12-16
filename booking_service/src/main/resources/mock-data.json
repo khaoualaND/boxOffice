@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "name": "John Doe", "role": "Customer" },
+    { "id": 2, "name": "Jane Smith", "role": "Admin" }
+  ],
+  "showtimes": [
+    { "id": 101, "movie": "Inception", "theater": "Theater 1", "time": "2024-12-15T18:00:00" },
+    { "id": 102, "movie": "Avatar", "theater": "Theater 2", "time": "2024-12-16T20:00:00" }
+  ]
+}
