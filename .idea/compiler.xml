@@ -8,6 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Discovery" />
+        <module name="Configuration" />
+        <module name="MovieManagementService" />
         <module name="showtime" />
         <module name="booking_service" />
         <module name="Gateway" />
@@ -16,8 +18,10 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Configuration" options="-parameters" />
       <module name="Discovery" options="-parameters" />
       <module name="Gateway" options="-parameters" />
+      <module name="MovieManagementService" options="-parameters" />
       <module name="booking_service" options="-parameters" />
       <module name="showtime" options="-parameters" />
     </option>

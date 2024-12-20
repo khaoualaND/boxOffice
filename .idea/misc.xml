@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/booking_service/pom.xml" />
         <option value="$PROJECT_DIR$/Gateway/pom.xml" />
         <option value="$PROJECT_DIR$/Discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/Configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/MovieManagementService/pom.xml" />
       </list>
     </option>
   </component>
