@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Adventure",
+    "genre": "Action",
+    "synopsis": "An action-packed adventure across the globe."
+  },
+  {
+    "id": 2,
+    "title": "The Silent Forest",
+    "genre": "Drama",
+    "synopsis": "A drama that explores the quiet moments of life."
+  }
+]

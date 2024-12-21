@@ -1,0 +1,12 @@
+type Query{
+
+cinemaRooms : [CinemaRoom]
+}
+
+type CinemaRoom {
+id:ID,
+name:String,
+address:String,
+#creationDate:String,
+numberOfChairs:Int,
+}
